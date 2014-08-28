@@ -1,0 +1,101 @@
+.header{
+  border: solid #A7AAA2 5px;
+  outline: groove #A7AAA2 5px;
+}
+
+.sidebar {
+  width: 200px;
+  border: solid #A7AAA2 1px;
+  border-radius: 10px;
+  margin: 50px 20px 0 20px;
+  padding: 5px 10px 5px 10px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+.asterisk {
+  color: red;
+}
+
+.Join-us-container {
+  border: solid #A7AAA2 1px;
+  border-radius: 10px;
+  margin: 0 0 0 20px;
+  height: 400px;
+}
+
+nav {
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+section {
+  position: relative;
+  display: inline-block;
+  vertical-align: text-top;
+  width: 400px;
+  height: 500px;
+  margin: 50px 0 0 0;
+}
+
+.header {
+  background: linear-gradient(to right, #A7AAA2, white);
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  padding-left: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0 5px 0 5px;
+}
+
+li {
+  margin: 5px 0 5px 0;
+  border-bottom: solid black 2px;
+  padding: 5px 3px 5px 3px;
+}
+
+.form-stuff {
+  padding: 0 10px 0 10px;
+  font-size: 20px;
+
+
+}
+
+input {
+  position: absolute;
+  right: 10px;
+}
+
+.button{
+  height: 100px;
+  width: 300px;
+  padding: 0;
+  margin: 20px 30px 0 40px;
+  background: linear-gradient(to right, #A7AAA2, white);
+  border-radius: 10px;
+  font-size: 30px;
+  color: #545651;
+
+
+}
+
+.Join-us-header {
+  height: 50px;
+  font-size: 27px;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  padding: 10px 2px 0 7px;
+  background: linear-gradient(to right, #A7AAA2, white);
+  border-radius: 10px;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+input {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  width: 220px;
+  border-radius: 4px;
+}
